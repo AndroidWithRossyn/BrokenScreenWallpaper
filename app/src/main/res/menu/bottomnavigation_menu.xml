@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/wallpaperNav"
+        android:icon="@drawable/wallpaper_clear"
+        android:orderInCategory="1"
+        android:title="Wallpaper" />
+
+    <item
+        android:id="@+id/categoryNav"
+        android:icon="@drawable/category_clear"
+        android:orderInCategory="2"
+        android:title="Category" />
+    <item
+        android:id="@+id/favouritesNav"
+        android:icon="@drawable/favourites_clear"
+        android:orderInCategory="3"
+        android:title="Favourites" />
+    <item
+        android:id="@+id/downloadNav"
+        android:icon="@drawable/download_clear"
+        android:orderInCategory="3"
+        android:title="Downloads" />
+
+
+</menu>
+
+

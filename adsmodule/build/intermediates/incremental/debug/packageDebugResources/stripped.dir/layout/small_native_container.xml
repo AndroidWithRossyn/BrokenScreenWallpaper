@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                        
+
+    
+
+           
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/native_ad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="12dp"
+        android:visibility="gone"
+        android:layout_marginHorizontal="6dp"
+        app:cardBackgroundColor="@android:color/transparent"
+        android:layout_marginBottom="10dp"
+        android:orientation="vertical"  android:tag="layout/small_native_container_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"/>
+         

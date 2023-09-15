@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml:2:1-19:16
+INJECTED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml:2:1-19:16
+INJECTED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml:2:1-19:16
+	package
+		INJECTED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml
+		ADDED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml:2:1-19:16
+		INJECTED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml:7:22-73
+uses-permission#android.permission.READ_PRIVILEGED_PHONE_STATE
+ADDED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml:8:5-10:47
+	tools:ignore
+		ADDED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml:10:9-44
+	android:name
+		ADDED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml:9:9-70
+application
+ADDED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml:12:5-17:15
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml:14:5-16:66
+	android:value
+		ADDED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml:16:9-63
+	android:name
+		ADDED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml:15:9-65
+uses-sdk
+INJECTED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml
+INJECTED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml
+INJECTED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml
+INJECTED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml
+		ADDED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml
+		INJECTED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml
+		ADDED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml
+		INJECTED from G:\BrokenScreenWallpaper\adsmodule\src\main\AndroidManifest.xml

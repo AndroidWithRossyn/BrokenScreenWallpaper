@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/page_1"
+    android:background="@android:color/transparent"
+    tools:context=".fragment.WallpaperFragment">
+
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabLayoutThemesOption"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:tabSelectedTextColor="@color/primary"
+        app:tabIndicatorColor="@android:color/transparent"
+        app:tabTextColor="#804DAEFE"
+        app:tabIndicatorHeight="0dp"
+        app:tabPaddingStart="10dp"
+        android:paddingHorizontal="5dp"
+        android:background="@null"
+        app:tabPaddingEnd="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:tabMode="fixed"
+        app:tabTextAppearance="@style/tabBarStyle" />
+
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/viewPagerThemesOption"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:fitsSystemWindows="true"
+        android:scrollbars="none"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tabLayoutThemesOption" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
